@@ -3,8 +3,8 @@
 Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI tools for assistive, responsible, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
 
 ## **What I Do**    
-- **Edge-Responsible AI** – Developing energy efficient models for edge devices.
-- **Design & Development** – Exploring ML models and AI-driven applications for assistive and technological developments.
+- **Computer Vision** – Research on fundamentals and advancement of computer vision.
+- **Deep Learning** – Exploring ML models and AI-driven applications for assistive and technological developments.
 - **Open Source** – Sharing my projects and contributing to the dev community.
 
 
