@@ -8,7 +8,7 @@ Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, 
 - **Open Source** – Sharing my projects and contributing to the dev community.
 
 
-## **Explore my public repositories**
+## **Explore Public Repositories**
 - [AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL): Autonomous Qbot navigation in GNSS-denied environment using Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
 - [AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav): Autonomous UAV navigation in GNSS-denied environment in 2D space with path planning expert warm start and Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
 - [MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI): A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) block to improve feature recalibration and model performance in crop disease detection for soybean and sugarcane with XAI. Research work as a graduate research intern at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/).
