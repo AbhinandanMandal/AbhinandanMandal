@@ -24,6 +24,7 @@ Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, 
 - **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)**: A comprehensive beginner to advance projects in python.
 - **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)**: The repository consist of fundamental questions on data structure and algorithm for beginner and intermediate level.
 - **[Python Visual Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)**: A repository for computing similarity between images for image retrieval and unsupervised labelling tasks.
+- **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)**: A comprehensive repository consist of reinforcement learning implementation from scratch with python only. 
 
 ## **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-9252a0211/)
