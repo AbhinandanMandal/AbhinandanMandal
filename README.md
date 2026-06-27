@@ -25,7 +25,7 @@ Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, 
 - **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)**: The repository consist of fundamental questions on data structure and algorithm for beginner and intermediate level.
 - **[Python Visual Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)**: A repository for computing similarity between images for image retrieval and unsupervised labelling tasks.
 - **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)**: A comprehensive repository consist of reinforcement learning implementation from scratch with python only.
-- **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)**: An AI agentic tool to generate complete document production system across 9 formats from research paper to thesis skeleton. Done on collaboration with [KorroAI](https://github.com/KorroAi).
+- **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)**: An AI agentic tool to generate complete document production system across 9 formats from research paper to thesis skeleton. Done in collaboration with [KorroAI](https://github.com/KorroAi).
 
 ## **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-9252a0211/)
