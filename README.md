@@ -34,7 +34,9 @@ Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-9252a0211/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mr.abhinandanmandal@gmail.com)
 
-
+<!--
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinandanMandal&show_icons=true&theme=radical)
+-->
 
 
 
