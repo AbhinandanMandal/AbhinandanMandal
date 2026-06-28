@@ -2,11 +2,12 @@
 
 Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI tools for assistive, responsible, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
 
+
 ## **What I Do**    
 - **Computer Vision** – Research on fundamentals and advancement of computer vision.
 - **Deep Learning** – Exploring ML models and AI-driven applications for assistive and technological developments.
 - **Open Source** – Sharing my projects and contributing to the dev community.
-
+  
 
 ## **Explore Public Repositories**
 - **[AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav)**: Autonomous UAV navigation in GNSS-denied environment in 2D space with path planning expert warm start and Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
