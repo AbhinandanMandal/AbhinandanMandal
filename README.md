@@ -1,4 +1,14 @@
-# Hi, I'm Abhinandan
+<h1 align="center">Hi 👋, I'm Abhinandan </h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinandanmandal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mr.abhinandanmandal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=t_X4_LcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href="https://huggingface.co/AbhinandanMandal"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://x.com/reckonwith_avi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+
+</p>
+
 
 Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI tools for assistive, responsible, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
 
