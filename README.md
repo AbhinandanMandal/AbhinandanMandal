@@ -10,7 +10,7 @@
 </p>
 
 
-Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI tools for assistive, responsible, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
+Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI systems for assistive, responsible, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
 
 
 ## **What I Do**    
