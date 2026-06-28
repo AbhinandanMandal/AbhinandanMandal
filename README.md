@@ -9,7 +9,6 @@ Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, 
 
 
 ## **Explore Public Repositories**
-- **[AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)**: Autonomous Qbot navigation in GNSS-denied environment using Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
 - **[AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav)**: Autonomous UAV navigation in GNSS-denied environment in 2D space with path planning expert warm start and Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
 - **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)**: A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) block to improve feature recalibration and model performance in crop disease detection for soybean and sugarcane with XAI. Research work as a graduate research intern at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/). IEEE COMSNETS 2026 conference paper: https://ieeexplore.ieee.org/abstract/document/11418268 
 - **[SimSearch](https://github.com/AbhinandanMandal/SimSearch)**: A deep learning project focused on self-supervised learning for image representation and similarity-based retrieval.
@@ -23,9 +22,13 @@ Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, 
 - **[JFA](https://github.com/AbhinandanMandal/JFA)**: A comprehensive Java course designed to help learners from beginner to advanced levels. This repository covers fundamental to advanced Java concepts, ensuring a deep understanding of the language with hands-on problem-solving.
 - **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)**: A comprehensive beginner to advance projects in python.
 - **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)**: The repository consist of fundamental questions on data structure and algorithm for beginner and intermediate level.
-- **[Python Visual Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)**: A repository for computing similarity between images for image retrieval and unsupervised labelling tasks.
 - **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)**: A comprehensive repository consist of reinforcement learning implementation from scratch with python only.
-- **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)**: An AI agentic tool to generate complete document production system across 9 formats from research paper to thesis skeleton. Done in collaboration with [KorroAI](https://github.com/KorroAi).
+
+
+## **Explore Open Source Repositories**
+  - **[AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)**: Autonomous Qbot navigation in GNSS-denied environment using Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
+  - **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)**: An AI agentic tool to generate complete document production system across 9 formats from research paper to thesis skeleton. Done in collaboration with [KorroAI](https://github.com/KorroAi).
+  - **[Python Visual Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)**: A repository for computing similarity between images for image retrieval and unsupervised labelling tasks.
 
 ## **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinandan-9252a0211/)
