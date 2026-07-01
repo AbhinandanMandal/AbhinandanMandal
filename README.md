@@ -1,71 +1,81 @@
 <h1 align="center">Hi, I'm Abhinandan </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinandanmandal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mr.abhinandanmandal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=t_X4_LcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-  <a href="https://huggingface.co/AbhinandanMandal"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-<a href="https://www.kaggle.com/abhinandanm1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://x.com/reckonwith_avi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href=""><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </p>
 
 
-Welcome to my GitHub! I am deeply passionate about **Artificial Intelligence**, with a strong focus on **designing and developing efficient, explainable AI systems for assistive, responsible, and sustainable applications**. I am particularly fascinated by the inner workings of **deep neural networks** and driven by a curiosity to **reverse-engineer and understand their underlying mechanisms**.
+Welcome to my GitHub! I am an AI researcher and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **computer vision**, **vision language models**, **representation learning** and **responsible, scalable AI**
 
-
-## **What I Do**    
-- **Computer Vision** – Research on fundamentals and advancement of computer vision.
-- **Deep Learning** – Exploring ML models and AI-driven applications for assistive and technological developments.
-- **Open Source** – Sharing my projects and contributing to the dev community.
-
-
-## **Explore Research Repositories**
-- **[AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav)**: Autonomous UAV navigation in GNSS-denied environment in 2D space with path planning expert warm start and Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
-  
+### **Publications**    
 - **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)**: A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) block to improve feature recalibration and model performance in crop disease detection for soybean and sugarcane with XAI. Research work as a graduate research intern at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/). IEEE COMSNETS 2026 conference paper: https://ieeexplore.ieee.org/abstract/document/11418268
+
+
+### **Explore Research Repositories**
+| Repository | Description | Affiliation |
+|---|---|---|
+| **[AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav)** | Autonomous UAV navigation in GNSS-denied 2D environments using path-planning expert warm start + Deep RL | [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
+| **[SimSearch](https://github.com/AbhinandanMandal/SimSearch)** | Self-supervised learning for image representation & similarity-based retrieval | [Indian Institute of Information Technology and Management (IIITM) Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[Assistive OpenCV](https://github.com/AbhinandanMandal/assistiveopencv)** | Real-world navigation assistance for visually impaired individuals | ES516 Programming for Data Science, winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[LearningFaces](https://github.com/AbhinandanMandal/LearningFaces)** | Face recognition system using Haarcascade + unsupervised learning | ES514 Machine Learning Techniques, winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[PINN-WyNDA](https://github.com/AbhinandanMandal/ES526_MS)** | Physics-Informed Neural Network for wide-array nonlinear dynamics approximation | ES526 Modelling & Simulation, Summer 2026 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+ 
   
-- **[SimSearch](https://github.com/AbhinandanMandal/SimSearch)**: A deep learning project focused on self-supervised learning for image representation and similarity-based retrieval.
+
+### **Explore Open Source Contributions**
+| Repository | Description |
+|---|---|
+| **[AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)** | Autonomous Qbot navigation in GNSS-denied environments via Deep RL. Done at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
+| **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)** | AI agentic tool generating research-to-thesis document pipelines across 9 formats. Done with [KorroAI](https://github.com/KorroAi) |
+| **[Python-Visual-Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)** | Image similarity computation for retrieval & unsupervised labelling | 
+
+
+<details>
+<summary>Foundations & Learning Repositories</summary>
   
-- **[Assistive OpenCV](https://github.com/AbhinandanMandal/assistiveopencv)**: This project aims to enhance mobility and independence for visually impaired individuals by assisting them in navigating real-world environments safely. Project work during class of **ES516 Programming for Data Science, winter 2025** at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/).
+| Repository | Description |
+|---|---|
+| **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Deep learning models & modules built from scratch in PyTorch |
+| **[ANN](https://github.com/AbhinandanMandal/ANN)** | Artificial Neural Networks implemented from scratch with NumPy & linear algebra |
+| **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
+| **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)** | Core data structures & algorithms practice |
+| **[JFA](https://github.com/AbhinandanMandal/JFA)** | Java fundamentals to advanced concepts |
+ 
+</details>
+
+
+<details>
+<summary>Project Repositories</summary>
   
-  
-- **[LearningFaces](https://github.com/AbhinandanMandal/LearningFaces)**: A simple yet effective Face Recognition System built using a custom dataset and the Haarcascade Frontal Face Classifier with unsupervised learning. Project work during class of **ES514 Machine Learning Techniques, winter 2025** at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/).
-  
-  
-- **[PINN-WyNDA](https://github.com/AbhinandanMandal/ES526_MS)**: Physics Informed Neural Network implementation of Wide-Array of Nonlinear Dynamics Approximation. Project work done during class of **ES526 Modelling & Simulation, Summer 2026** at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/).
-  
+| Repository | Description |
+|---|---|
+| **[Compass](https://github.com/AbhinandanMandal/compass)** | CLI-based intelligent campus navigation system for [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[Project QUBE](https://github.com/AbhinandanMandal/gemini-API-workflow)** | AI + social networking web app foundation using Gemini API & Django |
+| **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)** | Collection of beginner-to-advanced Python projects |
+ 
+</details>
 
-## **Explore Open Source Repositories**
-- **[AutoNavRL](https://github.com/AbhinandanMandal/AutoNavRL)**: Autonomous Qbot navigation in GNSS-denied environment using Deep Reinforcement Learning. Research work during internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/).
-    
-- **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)**: An AI agentic tool to generate complete document production system across 9 formats from research paper to thesis skeleton. Done in collaboration with [KorroAI](https://github.com/KorroAi).
-    
-- **[Python Visual Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)**: A repository for computing similarity between images for image retrieval and unsupervised labelling tasks.
-
-
-
-## **Explore Learning Repositories**
-- **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)**: A repository consists of various kinds of Deep Learning models and modules made entirely from scratch using PyTorch Framework.
-
-- **[ANN](https://github.com/AbhinandanMandal/ANN)**: This repository contains some of the scratch up implementation of Artificial Neural Network only with Numpy and Linear Algebra.
-
-- **[JFA](https://github.com/AbhinandanMandal/JFA)**: A comprehensive Java course designed to help learners from beginner to advanced levels. This repository covers fundamental to advanced Java concepts, ensuring a deep understanding of the language with hands-on problem-solving.
-
-- **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)**: The repository consist of fundamental questions on data structure and algorithm for beginner and intermediate level.
-  
-- **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)**: A comprehensive repository consist of reinforcement learning implementation from scratch with python only.
-
-
-
-## **Explore Project Repositories**
-- **[Compass](https://github.com/AbhinandanMandal/compass)**: An intelligent, CLI-based campus navigation system designed for [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/). It focuses on efficient routing, human-friendly directions, and contextual campus awareness, making navigation intuitive for new visitors, students, and staff. Philanthropic work assoicated with [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/).
-
-- **[Project QUBE](https://github.com/AbhinandanMandal/gemini-API-workflow)**: Project QUBE foundation with google gemini api and python django, QUBE is a combination of AI and social networking webapp.
-
-- **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)**: A comprehensive beginner to advance projects in python.
-
-
+### Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 
 <!--
