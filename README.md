@@ -11,7 +11,7 @@
 </p>
 
 
-Welcome to my GitHub! I am an AI researcher and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **computer vision**, **vision language models**, **representation learning**, **reinforcement learning** and **responsible, scalable AI**
+Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **computer vision**, **vision language models**, **representation learning**, **reinforcement learning** and **responsible, scalable AI**
 
 <!--
 ### **Recent Publications**    
