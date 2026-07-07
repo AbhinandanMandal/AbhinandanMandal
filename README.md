@@ -13,10 +13,7 @@
 
 Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **computer vision**, **vision language models**, **representation learning**, **reinforcement learning** and **responsible, scalable AI**
 
-<!--
-### **Recent Publications**    
-- **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)**: A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) block to improve feature recalibration and model performance in crop disease detection for soybean and sugarcane with XAI. Research work as a graduate research intern at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/). IEEE COMSNETS 2026 conference paper: https://ieeexplore.ieee.org/abstract/document/11418268
---->
+
 
 ### **Recent Accepted Research Projects** 
 | Repository | Description | 
@@ -46,7 +43,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 
 
 <details>
-<summary>Foundations & Learning Repositories</summary>
+<summary>Recent Foundations & Learning Repositories</summary>
   
 | Repository | Description |
 |---|---|
@@ -61,7 +58,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 
 
 <details>
-<summary>Project Repositories</summary>
+<summary>Recent Project Repositories</summary>
   
 | Repository | Description |
 |---|---|
