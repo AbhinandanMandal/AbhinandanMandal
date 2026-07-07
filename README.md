@@ -51,6 +51,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Repository | Description |
 |---|---|
 | **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Deep learning models & modules built from scratch in PyTorch |
+| **[RepresentationLearning](https://github.com/AbhinandanMandal/RepresentationLearning)** | Hands on implementation of SOTA representation learning papers from scratch |
 | **[ANN](https://github.com/AbhinandanMandal/ANN)** | Artificial Neural Networks implemented from scratch with NumPy & linear algebra |
 | **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
 | **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)** | Core data structures & algorithms practice |
