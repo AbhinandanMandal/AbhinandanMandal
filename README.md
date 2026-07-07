@@ -18,15 +18,22 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 - **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)**: A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) block to improve feature recalibration and model performance in crop disease detection for soybean and sugarcane with XAI. Research work as a graduate research intern at [Indian Institute of Information Technology and Management Gwalior](https://www.iiitm.ac.in/). IEEE COMSNETS 2026 conference paper: https://ieeexplore.ieee.org/abstract/document/11418268
 --->
 
-### **Recent Research Works**
+### **Recent Accepted Research Projects** 
+| Repository | Description | 
+|---|---|
+| **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)** | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
+| **[SPA](https://github.com/AbhinandanMandal/SPA)** | Efficient parallel algorithms for UAV assistant vehicle routing in rugged terrain for dynamical networks. Accepted at [ICIIS 2026](https://iciis2026.iiitm.ac.in/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/) |
+
+### **Recent Research Projects**
 | Repository | Description | 
 |---|---|
 | **[AutoUAVNav](https://github.com/AbhinandanMandal/AutoUAVNav)** | Autonomous UAV navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
 | **[SimSearch](https://github.com/AbhinandanMandal/SimSearch)** | Self-supervised learning for image representation & similarity-based retrieval. Showcased in Gwalior AI Summit at [Indian Institute of Information Technology and Management (IIITM) Gwalior](https://www.iiitm.ac.in/index.php/en/) |
 | **[Assistive OpenCV](https://github.com/AbhinandanMandal/assistiveopencv)** | Real-world navigation assistance for visually impaired individuals. Project of ES516 Programming for Data Science, winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
-| **[LearningFaces](https://github.com/AbhinandanMandal/LearningFaces)** | Face recognition system using Haarcascade + unsupervised learning. Project of ES514 Machine Learning Techniques, winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
-| **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)** | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Done during graduate research intern at [IIITM Gwalior](https://www.iiitm.ac.in/)|
-| **[PINN-WyNDA](https://github.com/AbhinandanMandal/ES526_MS)** | Physics-Informed Neural Network for wide-array nonlinear dynamics approximation. Project of ES526 Modelling & Simulation, Summer 2026 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[LearningFaces](https://github.com/AbhinandanMandal/LearningFaces)** | An unsupervised face recognition system with custom dataset and **Haarcascade Frontal Face Classifier**. Final project ES514 Machine Learning Techniques, Winter 2025 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+| **[PINN-WyNDA](https://github.com/AbhinandanMandal/ES526_MS)** | A Physics Informed Neural Network Method to Discover Mathematical Models of Dynamical Systems from Data. Final project ES526 Modelling & Simulation, Summer 2026 at [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
+
+
  
   
 
