@@ -41,6 +41,12 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)** | AI agentic tool generating research-to-thesis document pipelines across 9 formats. Done with [KorroAI](https://github.com/KorroAi) |
 | **[Python-Visual-Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)** | Image similarity computation for retrieval & unsupervised labelling | 
 
+### **Recent Side Project**
+| Repository | Description |
+|---|---|
+| **[RepresentationLearning](https://github.com/AbhinandanMandal/RepresentationLearning)** | Hands on implementation of state-of-the-art (SOTA) representation learning papers from scratch |
+
+
 
 <details>
 <summary>Recent Foundations & Learning Repositories</summary>
@@ -48,7 +54,6 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Repository | Description |
 |---|---|
 | **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Deep learning models & modules built from scratch in PyTorch |
-| **[RepresentationLearning](https://github.com/AbhinandanMandal/RepresentationLearning)** | Hands on implementation of SOTA representation learning papers from scratch |
 | **[ANN](https://github.com/AbhinandanMandal/ANN)** | Artificial Neural Networks implemented from scratch with NumPy & linear algebra |
 | **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
 | **[DSA-Fundamentals](https://github.com/AbhinandanMandal/DSA-Fundamentals)** | Core data structures & algorithms practice |
