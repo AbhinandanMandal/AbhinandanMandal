@@ -16,8 +16,8 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 ### **Highlights**
 1. Peer Reviewer - **[NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home)**, **[NeurIPS RTCA 2026](https://rtcaneurips26.github.io/)**
 2. JEPA cohort contributor - **[The BU1LD](https://www.linkedin.com/company/the-bu1ld/posts/?feedView=all)**
-3. Founding Researcher - **[Advanced Vision Lab](https://detail-primer-91884953.figma.site/)**
-4. Community Lead - **[ML Paper Club](https://discord.com/invite/6ahbEJgPw)**
+3. Selected Participant - **[GCI World 2026, Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/en/)**, **[The University of Tokyo](https://www.u-tokyo.ac.jp/en/)**
+4. Founding Researcher - **[Advanced Vision Lab](https://detail-primer-91884953.figma.site/)**, Community Lead - **[ML Paper Club](https://discord.com/invite/6ahbEJgPw)**
 
 ### **Recent Accepted Research Projects** 
 | Repository | Description | 
