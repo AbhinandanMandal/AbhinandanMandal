@@ -7,7 +7,7 @@
   <a href="https://huggingface.co/AbhinandanMandal"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 <a href="https://www.kaggle.com/abhinandanm1"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://x.com/reckonwith_avi"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
+<a href="[https://dev.to/YOUR_USERNAME](https://dev.to/debugginavi)"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
 
 
