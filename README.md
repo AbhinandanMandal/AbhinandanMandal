@@ -24,7 +24,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 |---|---|
 | **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)** | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
 | **[SPA](https://github.com/AbhinandanMandal/SPA)** | Efficient parallel algorithms for UAV assistant vehicle routing in rugged terrain for dynamical networks. Accepted at [ICIIS 2026](https://iciis2026.iiitm.ac.in/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/) |
-| **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/). Accepted at [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html)|
+| **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/). Accepted at [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html)|
 
 ### **Recent Research Projects**
 | Repository | Description | 
