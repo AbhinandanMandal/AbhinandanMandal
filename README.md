@@ -24,11 +24,11 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 |---|---|
 | **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)** | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
 | **[SPA](https://github.com/AbhinandanMandal/SPA)** | Efficient parallel algorithms for UAV assistant vehicle routing in rugged terrain for dynamical networks. Accepted at [ICIIS 2026](https://iciis2026.iiitm.ac.in/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/) |
+| **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/). Accepted at [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html)|
 
 ### **Recent Research Projects**
 | Repository | Description | 
 |---|---|
-| **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments using path-planning expert warm start with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/) |
 | **[Extension of STELLAR (ICML 2026)](https://github.com/AbhinandanMandal/STELLAR)** | Utilizing baseline [STELLAR](https://arxiv.org/abs/2602.01905) framework to investigate intrinsic dimensionality in real biomedical visual task and empirical analysis of rank compression in visual representation|
 | **[Extension of AdaptVis (ICML 2025)](https://github.com/AbhinandanMandal/AdaptVis)** | Investigating additional training free calibration techniques to further improve spatial-reasoning performance in out of distribution analysis |
 | **[Extension of PiRO (CVPR 2024)](https://github.com/AbhinandanMandal/PiRO)** | Evaluating embedding quality category and object-level representation. Currently collecting new data to extend framework generalization |
