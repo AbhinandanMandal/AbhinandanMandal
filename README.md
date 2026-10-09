@@ -50,9 +50,9 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Repository | Description |
 |---|---|
 | **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Building Deep Learning models with PyTorch from scratch |
-| **[dsa-python](https://github.com/AbhinandanMandal/dsa-python)** | Core data structures & algorithms question practice from ground zero |
-| **[RepresentationLearning](https://github.com/AbhinandanMandal/RepresentationLearning)** | Hands on implementation of state-of-the-art (SOTA) representation learning papers from scratch |
+| **[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML)** | Hands on implementation of state-of-the-art (SOTA) papers from scratch |
 | **[aiml-python](https://github.com/AbhinandanMandal/aiml-python)** | Basic and Fundamental artificial intelligence concept implementation with python |
+| **[dsa-python](https://github.com/AbhinandanMandal/dsa-python)** | Core data structures & algorithms question practice from ground zero |
 
 
 <details>
