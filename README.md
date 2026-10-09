@@ -14,7 +14,7 @@
 Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **Computer Vision**, **Representation Learning**, **Self-Supervised Learning**, **Multimodal Reasoning**, **Reinforcement Learning**, **Vision-Language Models** and **Responsible & Scalable AI**
 
 ### **Highlights**
-1. Peer Reviewer - **[NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home)**, **[NeurIPS RTCA 2026](https://rtcaneurips26.github.io/)**
+1. Peer Reviewer - **[NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home)**, **[NeurIPS RTCA 2026](https://rtcaneurips26.github.io/)**, **[ACCV MM4SciReal 2026](https://mm4scireal.github.io/)**
 2. JEPA cohort contributor - **[The BU1LD](https://www.linkedin.com/company/the-bu1ld/posts/?feedView=all)**
 3. Selected Participant - **[GCI World 2026, Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/en/)**, **[The University of Tokyo](https://www.u-tokyo.ac.jp/en/)**
 4. Research Lead - **[Advanced Vision Lab](https://detail-primer-91884953.figma.site/)**, Ex-Community Lead - **[ML Paper Club](https://discord.com/invite/6ahbEJgPw)**
