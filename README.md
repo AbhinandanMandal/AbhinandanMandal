@@ -30,7 +30,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 ### **Recent Research Projects**
 | Repository | Description | 
 |---|---|
-| **[Extension of STELLAR (ICML 2026)](https://github.com/AbhinandanMandal/STELLAR)** | Utilizing baseline [STELLAR](https://arxiv.org/abs/2602.01905) framework to investigate intrinsic dimensionality in real biomedical visual task and empirical analysis of rank compression in visual representation|
+| **[Extension of STELLAR (ICML 2026)](https://github.com/AbhinandanMandal/STELLAR)** | Utilizing baseline [STELLAR](https://arxiv.org/abs/2602.01905) framework to investigate intrinsic dimensionality in real biomedical visual task and empirical analysis of rank compression in visual representation. Hypothesis accepted into [AI + Science Conference 2026](https://datascience.uchicago.edu/research/ai-science/partnerships/pritzker-aiscience-joint-initiative-with-caltech/the-uchicago-and-caltech-aiscience-conference-2026/) by [University of Chicago](https://www.uchicago.edu/) and [Caltech](https://www.caltech.edu/) |
 | **[Extension of AdaptVis (ICML 2025)](https://github.com/AbhinandanMandal/AdaptVis)** | Investigating additional training free calibration techniques to further improve spatial-reasoning performance in out of distribution analysis |
 | **[Extension of PiRO (CVPR 2024)](https://github.com/AbhinandanMandal/PiRO)** | Evaluating embedding quality category and object-level representation. Currently collecting new data to extend framework generalization |
 | **[Extension of Negbench (CVPR 2025)](https://github.com/AbhinandanMandal/negbench)** | Currently integrating the benchmark into a robotic visual perception pipeline to test negation robustness in real-world scenes |
