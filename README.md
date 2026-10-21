@@ -13,7 +13,7 @@
 
 Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **Computer Vision**, **Representation Learning**, **Self-Supervised Learning**, **Multimodal Reasoning**, **Reinforcement Learning**, **Vision-Language Models** and **Responsible & Scalable AI**
 
-### **Highlights**
+### Highlights
 | Role | Where |
 |------|-------|
 | Research Lead | [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) |
@@ -23,7 +23,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | Peer Reviewer | [NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home), [NeurIPS RTCA 2026](https://rtcaneurips26.github.io/), [ACCV MM4SciReal 2026](https://mm4scireal.github.io/) |
 
 
-### **Recent Accepted Research Projects** 
+### Recent Accepted Research Projects
 | Repository | Description | 
 |---|---|
 | [MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI) | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
@@ -32,10 +32,13 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | [Vision-Symbolic-Reasoning](https://github.com/AbhinandanMandal/Vision-Symbolic-Reasoning) | Neuro symbolic visual reasoning for robotics vision through intermediate-layer grounding. Accepted into [ACCV 2026](https://accv2026.org/). Collaborative work at [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) | 
 
 
+### Current Focus
 
-
-
-
+| Repository | Description |
+|------------|-------------|
+| [BluePrintML](https://github.com/AbhinandanMandal/BlueprintML) | From-scratch implementations of foundational research papers across machine learning and artificial intelligence |
+| [ML Whitepapers](https://github.com/AbhinandanMandal/ML-Whitepapers) | Technical blogs, literature reviews, and reproduction studies on advanced machine learning and artificial intelligence |
+| [neetcode-submissions](https://github.com/AbhinandanMandal/neetcode-submissions) | Daily practice in data structures and algorithms to sharpen problem-solving skills |
 
 
 ### Tech Stack
