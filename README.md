@@ -14,26 +14,34 @@
 Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply passionate, curious about understanding underlying mechanisms of deep neural nets. My research interest includes **Computer Vision**, **Representation Learning**, **Self-Supervised Learning**, **Multimodal Reasoning**, **Reinforcement Learning**, **Vision-Language Models** and **Responsible & Scalable AI**
 
 ### **Highlights**
-1. Peer Reviewer - **[NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home)**, **[NeurIPS RTCA 2026](https://rtcaneurips26.github.io/)**, **[ACCV MM4SciReal 2026](https://mm4scireal.github.io/)**
-2. JEPA cohort contributor - **[The BU1LD](https://www.linkedin.com/company/the-bu1ld/posts/?feedView=all)**
-3. Selected Participant - **[GCI World 2026, Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/en/)**, **[The University of Tokyo](https://www.u-tokyo.ac.jp/en/)**
-4. Research Lead - **[Advanced Vision Lab](https://detail-primer-91884953.figma.site/)**, Ex-Community Lead - **[ML Paper Club](https://discord.com/invite/6ahbEJgPw)**
+| Role | Where |
+|------|-------|
+| Research Lead | [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) |
+| Ex-Community Lead | [ML Paper Club](https://discord.com/invite/6ahbEJgPw) |
+|Selected Participant | [GCI World 2026, Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), [Stanford Probability for AI](https://pai.stanford.edu/) |
+| JEPA Cohort Contributor | [The BU1LD](https://www.linkedin.com/company/the-bu1ld/posts/?feedView=all) |
+| Peer Reviewer | [NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home), [NeurIPS RTCA 2026](https://rtcaneurips26.github.io/), [ACCV MM4SciReal 2026](https://mm4scireal.github.io/) |
+
 
 ### **Recent Accepted Research Projects** 
 | Repository | Description | 
 |---|---|
-| **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)** | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
-| **[SPA](https://github.com/AbhinandanMandal/SPA)** | Efficient parallel algorithms for UAV assistant vehicle routing in rugged terrain for dynamical networks. Accepted at [ICIIS 2026](https://iciis2026.iiitm.ac.in/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/) |
-| **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/). Accepted at [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html)|
-| **[Vision-Symbolic-Reasoning](https://github.com/AbhinandanMandal/Vision-Symbolic-Reasoning)** | Neuro symbolic visual reasoning for robotics vision through intermediate-layer grounding. Accepted into [ACCV 2026](https://accv2026.org/). Collaborative work from [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) | 
+| [MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI) | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
+| [SPA](https://github.com/AbhinandanMandal/SPA) | Efficient parallel algorithms for UAV assistant vehicle routing in rugged terrain for dynamical networks. Accepted at [ICIIS 2026](https://iciis2026.iiitm.ac.in/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/) |
+| [AMRnav](https://github.com/AbhinandanMandal/AMRnav) | Autonomous mobile robot navigation in GNSS-denied 2D environments with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/). Accepted at [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html)|
+| [Vision-Symbolic-Reasoning](https://github.com/AbhinandanMandal/Vision-Symbolic-Reasoning) | Neuro symbolic visual reasoning for robotics vision through intermediate-layer grounding. Accepted into [ACCV 2026](https://accv2026.org/). Collaborative work from [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) | 
 
-### **Recent Research Projects**
+<!-- <details>
+  
+### **Notable Research Projects**
 | Repository | Description | 
 |---|---|
 | **[Extension of STELLAR (ICML 2026)](https://github.com/AbhinandanMandal/STELLAR)** | Utilizing baseline [STELLAR](https://arxiv.org/abs/2602.01905) framework to investigate intrinsic dimensionality in real biomedical visual task and empirical analysis of rank compression in visual representation. Hypothesis accepted into [AI + Science Conference 2026](https://datascience.uchicago.edu/research/ai-science/partnerships/pritzker-aiscience-joint-initiative-with-caltech/the-uchicago-and-caltech-aiscience-conference-2026/) by [University of Chicago](https://www.uchicago.edu/) and [Caltech](https://www.caltech.edu/) |
 | **[Extension of PiRO (CVPR 2024)](https://github.com/AbhinandanMandal/PiRO)** | Evaluating embedding quality category and object-level representation. Currently collecting new data to extend framework generalization |
-| **[Extension of Negbench (CVPR 2025)](https://github.com/AbhinandanMandal/negbench)** | Currently integrating the benchmark into a robotic visual perception pipeline to test negation robustness in real-world scenes |
+| **[Extension of Negbench, CountQA (CVPR 2025)](https://github.com/AbhinandanMandal/negbench)** | Currently integrating the benchmark into a robotic visual perception pipeline to test negation robustness in real-world scenes |
+</details> -->
 
+<!-- </details>
 
 ### **Recent Open Source Contributions**
 | Repository | Description |
@@ -42,8 +50,9 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[korroresearch](https://github.com/AbhinandanMandal/korroresearch)** | AI agentic tool generating research-to-thesis document pipelines across 9 formats. Done with [KorroAI](https://github.com/KorroAi) |
 | **[Python-Visual-Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)** | Image similarity computation for retrieval & unsupervised labelling | 
 | **[I-CaN-Sim-Code](https://github.com/AbhinandanMandal/I-CaN-Sim-Code)** | Application AI in communication networking. Working with [I-CaN group](https://www.linkedin.com/company/intelligent-communication-and-networking-group/posts/?feedView=all) | 
+</details> -->
 
-<details>
+<!-- <details>
 <summary>Recent Side Projects</summary>
 
 | Repository | Description |
@@ -53,9 +62,9 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[aiml-python](https://github.com/AbhinandanMandal/aiml-python)** | Basic and Fundamental artificial intelligence concept implementation with python |
 | **[dsa-python](https://github.com/AbhinandanMandal/dsa-python)** | Core data structures & algorithms question practice from ground zero |
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>Recent Foundations & Learning Repositories</summary>
   
 | Repository | Description |
@@ -66,10 +75,10 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
 | **[JFA](https://github.com/AbhinandanMandal/JFA)** | Java fundamentals to advanced concepts |
  
-</details>
+</details> -->
 
 
-<details>
+<!-- <details>
 <summary>Recent Project Repositories</summary>
 
 | Repository | Description |
@@ -78,7 +87,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[Project QUBE](https://github.com/AbhinandanMandal/gemini-API-workflow)** | AI + social networking web app foundation using Gemini API & Django |
 | **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)** | Collection of beginner-to-advanced Python projects |
  
-</details>
+</details> -->
 
 ### Tech Stack
 <p align="left">
