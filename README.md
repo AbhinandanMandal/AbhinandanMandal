@@ -35,9 +35,6 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[Extension of Negbench (CVPR 2025)](https://github.com/AbhinandanMandal/negbench)** | Currently integrating the benchmark into a robotic visual perception pipeline to test negation robustness in real-world scenes |
 
 
- 
-  
-
 ### **Recent Open Source Contributions**
 | Repository | Description |
 |---|---|
@@ -46,16 +43,19 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[Python-Visual-Similarity](https://github.com/AbhinandanMandal/Python-Visual-Similarity)** | Image similarity computation for retrieval & unsupervised labelling | 
 | **[I-CaN-Sim-Code](https://github.com/AbhinandanMandal/I-CaN-Sim-Code)** | Application AI in communication networking. Working with [I-CaN group](https://www.linkedin.com/company/intelligent-communication-and-networking-group/posts/?feedView=all) | 
 
-### **Recent Side Project**
+<details>
+<summary>Recent Side Projects</summary>
+
 | Repository | Description |
 |---|---|
-| **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Building Deep Learning models with PyTorch from scratch |
 | **[BlueprintML](https://github.com/AbhinandanMandal/BlueprintML)** | Hands on implementation of state-of-the-art (SOTA) papers from scratch |
+| **[TorchGround](https://github.com/AbhinandanMandal/TorchGround)** | Building Deep Learning models with PyTorch from scratch |
 | **[aiml-python](https://github.com/AbhinandanMandal/aiml-python)** | Basic and Fundamental artificial intelligence concept implementation with python |
 | **[dsa-python](https://github.com/AbhinandanMandal/dsa-python)** | Core data structures & algorithms question practice from ground zero |
 
+</details>
 
-<details>
+<!-- <details>
 <summary>Recent Foundations & Learning Repositories</summary>
   
 | Repository | Description |
@@ -66,10 +66,10 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
 | **[JFA](https://github.com/AbhinandanMandal/JFA)** | Java fundamentals to advanced concepts |
  
-</details>
+</details> -->
 
 
-<details>
+<!-- <details>
 <summary>Recent Project Repositories</summary>
   
 | Repository | Description |
@@ -78,7 +78,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[Project QUBE](https://github.com/AbhinandanMandal/gemini-API-workflow)** | AI + social networking web app foundation using Gemini API & Django |
 | **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)** | Collection of beginner-to-advanced Python projects |
  
-</details>
+</details> -->
 
 ### Tech Stack
 <p align="left">
