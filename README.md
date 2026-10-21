@@ -25,7 +25,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[MoSE-XAI](https://github.com/AbhinandanMandal/MoSE-XAI)** | A modified MobileNetV2 architecture enhanced with a Squeeze-and-Excitation (SE) and XAI for multi-crop disease detection. Accepted at [COMSNETS 2026](https://www.comsnets.org/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/)|
 | **[SPA](https://github.com/AbhinandanMandal/SPA)** | Efficient parallel algorithms for UAV assistant vehicle routing in rugged terrain for dynamical networks. Accepted at [ICIIS 2026](https://iciis2026.iiitm.ac.in/). Work done during postgraduate studies at [IIITM Gwalior](https://www.iiitm.ac.in/) |
 | **[AMRnav](https://github.com/AbhinandanMandal/AMRnav)** | Autonomous mobile robot navigation in GNSS-denied 2D environments with deep RL. Work during summer research internship at [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in/). Accepted at [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html)|
-| **[Vision-Symbolic-Reasoning](https://github.com/AbhinandanMandal/Vision-Symbolic-Reasoning)** | Neuro symbolic visual reasoning for robotics vision through intermediate-layer grounding. Collaborative work from [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) | 
+| **[Vision-Symbolic-Reasoning](https://github.com/AbhinandanMandal/Vision-Symbolic-Reasoning)** | Neuro symbolic visual reasoning for robotics vision through intermediate-layer grounding. Accepted into [ACCV 2026](https://accv2026.org/). Collaborative work from [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) | 
 
 ### **Recent Research Projects**
 | Repository | Description | 
