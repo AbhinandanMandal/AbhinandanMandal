@@ -32,7 +32,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | [Vision-Symbolic-Reasoning](https://github.com/AbhinandanMandal/Vision-Symbolic-Reasoning) | Neuro symbolic visual reasoning for robotics vision through intermediate-layer grounding. Accepted into [ACCV 2026](https://accv2026.org/). Collaborative work at [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) | 
 
 
-### Current Focus
+### Exploring
 
 | Repository | Description |
 |------------|-------------|
