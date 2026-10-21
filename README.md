@@ -55,7 +55,7 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 
 </details>
 
-<!-- <details>
+<details>
 <summary>Recent Foundations & Learning Repositories</summary>
   
 | Repository | Description |
@@ -66,19 +66,19 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 | **[RLFoundations](https://github.com/AbhinandanMandal/RLFoundations)** | Reinforcement learning implementations from scratch in Python |
 | **[JFA](https://github.com/AbhinandanMandal/JFA)** | Java fundamentals to advanced concepts |
  
-</details> -->
+</details>
 
 
-<!-- <details>
+<details>
 <summary>Recent Project Repositories</summary>
-  
+
 | Repository | Description |
 |---|---|
 | **[Compass](https://github.com/AbhinandanMandal/compass)** | CLI-based intelligent campus navigation system for [IIITM Gwalior](https://www.iiitm.ac.in/index.php/en/) |
 | **[Project QUBE](https://github.com/AbhinandanMandal/gemini-API-workflow)** | AI + social networking web app foundation using Gemini API & Django |
 | **[SideProjects](https://github.com/AbhinandanMandal/SideProjects)** | Collection of beginner-to-advanced Python projects |
  
-</details> -->
+</details>
 
 ### Tech Stack
 <p align="left">
