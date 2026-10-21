@@ -16,10 +16,10 @@ Welcome to my GitHub! I am an AI researcher, a Postgraduate student and deeply p
 ### Highlights
 | Role | Where |
 |------|-------|
-| Research Lead | [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) |
-| Ex-Community Lead | [ML Paper Club](https://discord.com/invite/6ahbEJgPw) |
+| Research Lead | Leading [Advanced Vision Labs](https://detail-primer-91884953.figma.site/) in fundamental and applied research on artificial intelligence and Computer Vision |
+| Ex-Community Lead | Led [ML Paper Club](https://discord.com/invite/6ahbEJgPw) in collaborative learning and technical discussions spanning computer vision, RL, NLP. Scaled community from 5 members to 80+ students across 10 counties |
 |Selected Participant | [GCI World 2026, Matsuo-Iwasawa Laboratory](https://weblab.t.u-tokyo.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), [Stanford Probability for AI](https://pai.stanford.edu/) |
-| JEPA Cohort Contributor | [The BU1LD](https://www.linkedin.com/company/the-bu1ld/posts/?feedView=all) |
+| JEPA Cohort Contributor | Extending [STELLAR]() work with world modeling from ground-up at [The BU1LD](https://www.linkedin.com/company/the-bu1ld/posts/?feedView=all) |
 | Peer Reviewer | [NeurIPS GlobalSouthAI 2026](https://sites.google.com/view/globalsouthai-neurips26/home), [NeurIPS RTCA 2026](https://rtcaneurips26.github.io/), [ACCV MM4SciReal 2026](https://mm4scireal.github.io/) |
 
 
